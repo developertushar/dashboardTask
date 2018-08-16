@@ -1,0 +1,12 @@
+a.navbar-brand:hover{
+    /* border-bottom-color: black; */
+    
+    border-bottom: 3px solid black;
+    
+}
+
+.navbar-wrapper
+{
+    position: relative;
+    left: 200px;
+}
